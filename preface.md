@@ -6,11 +6,14 @@
 ## 2. Рекомендуемые учебники:
 
 - Eloquent Javascript
-	> https://karmazzin.gitbooks.io/eloquentjavascript_ru/ - читать онлайн на русском языке
+
+  > https://karmazzin.gitbooks.io/eloquentjavascript_ru/ - читать онлайн на русском языке
 
 	> https://www.gitbook.com/download/pdf/book/karmazzin/eloquentjavascript_ru - скачать PDF на русском языке
+
 - Серия книг You Don't Know JS
-	> https://github.com/azat-io/you-dont-know-js-ru/tree/master/up%20%26%20going - первая книга на русском
+
+  > https://github.com/azat-io/you-dont-know-js-ru/tree/master/up%20%26%20going - первая книга на русском
 
 	> https://github.com/azat-io/you-dont-know-js-ru/tree/master/scope%20%26%20closures - вторая книга на русском
 
